@@ -1,3 +1,3 @@
-a=27
-print(a)
 
+sen=26
+print(2023-sen)
